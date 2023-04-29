@@ -1,0 +1,39 @@
+/* Medio */
+
+position: absolute;
+width: 137px;
+height: 62px;
+
+font-family: 'Pacifico';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 84px;
+
+colors:
+white - #f2f2f2
+dark green - #212924
+darker green - #121714
+
+
+for color bg:
+background-image: linear-gradient(to bottom, #9aa770, #839364, #6e7e59, #5b6a4d, #495741, #3e4b39, #343f31, #2a3329, #232b23, #1c241d, #161c18, #0f1511);
+ 
+for pic bg:
+	background-image: url('mediobg.png');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-size: 100% 200%;
+
+https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link
+
+To do:
+profile
+order and tracking
+button redesign
+
+javascript:
+display changemakers details
+profile authentication?
+enter details
